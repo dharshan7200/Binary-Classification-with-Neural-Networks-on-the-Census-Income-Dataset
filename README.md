@@ -1,7 +1,7 @@
 # Binary-Classification-with-Neural-Networks-on-the-Census-Income-Dataset
 
-# Name: DHARSHAN D
-# Reg no: 212223230045
+## Name: DHARSHAN D
+# #Reg no: 212223230045
 ## Overview
 This project builds a binary classification model using PyTorch to predict whether an individual earns more than $50,000 annually based on census data. The model uses embeddings for categorical features and batch-normalized continuous features.  
 
