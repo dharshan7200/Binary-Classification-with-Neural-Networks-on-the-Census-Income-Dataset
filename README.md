@@ -188,6 +188,7 @@ def predict_income(model, input_dict, label_encoders, scaler, categorical_column
 
 ### Output:
 
+<img width="378" height="185" alt="image" src="https://github.com/user-attachments/assets/4093461e-11be-47de-8a6a-d7143b36c852" />
 
 
 ### Result: 
