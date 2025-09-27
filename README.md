@@ -192,4 +192,4 @@ def predict_income(model, input_dict, label_encoders, scaler, categorical_column
 
 
 ### Result: 
-Hence the program is completed.
+Hence the program is completed successfully.
